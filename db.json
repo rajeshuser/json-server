@@ -1,18 +1,18 @@
 {
-	"users": [
+	"dogs": [
 		{
 			"id": 1,
-			"name": "user1"
-		}
-	],
-	"posts": [
+			"name": "Cherry",
+			"age": 2,
+			"place": "Visakhapatnam",
+			"gender": "Male"
+		},
 		{
-			"id": 2,
-			"userId": 1,
-			"body": "post1"
+			"id": 1,
+			"name": "Tommy",
+			"age": 3,
+			"place": "Banglore",
+			"gender": "Female"
 		}
-	],
-	"profile": {
-		"name": "typicode"
-	}
+	]
 }
